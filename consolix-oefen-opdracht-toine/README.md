@@ -18,11 +18,7 @@ Moderne, responsive statische website (3+ pagina's) over ethisch en productief A
 - **Lessen uit codebases**: Minimal dependencies (geen npm); utility-achtige CSS voor onderhoudbaarheid; vaste nav zoals SaaS sites.
 
 ## Snelle Start
-1. Open `main/html/index.html` in browser (Chrome aanbevolen).
-   ```
-   start chrome "c:/Users/toine/Desktop/consolix-oefen-opdracht-toine/main/html/index.html"
-   ```
-2. Navigeer via header.
+1. Navigeer via header.
 
 ## Project Structuur
 ```
