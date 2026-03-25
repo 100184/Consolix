@@ -29,5 +29,5 @@ main/
 ```
 
 ## Uitbreidingen
-- Zie `.env.example` voor config.
+- Zie `.env.example` voor een config.
 
