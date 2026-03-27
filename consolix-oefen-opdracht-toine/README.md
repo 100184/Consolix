@@ -28,5 +28,7 @@ main/
 ├── js/       # Scripts (script.js)
 ```
 
+## ENV
 
+Env gebruik je voor Wachtwoorden, API keys en geheime config.
 
