@@ -28,6 +28,5 @@ main/
 ├── js/       # Scripts (script.js)
 ```
 
-## Uitbreidingen
-- Zie `.env.example` voor een config.
+
 
